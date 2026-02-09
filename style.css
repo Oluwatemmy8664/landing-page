@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.hero {
+  background: #111;
+  color: #fff;
+  padding: 60px 20px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #ff9800;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.services {
+  padding: 40px 20px;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services li {
+  margin: 10px 0;
+}
+
+footer {
+  background: #f4f4f4;
+  padding: 20px;
+  font-size: 14px;
+}
